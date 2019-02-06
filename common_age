@@ -1,0 +1,16 @@
+student1 = {
+    'name' : 'vinay',
+    'age' : 20
+    }
+student2 = {
+    'name' : ' navin',
+    'age' : 19
+    }
+student3 = {
+    'name' : 'uday',
+    'age' : 20
+    }
+x = student1.items()
+
+print(x)
+
